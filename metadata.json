@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS — Android AI Assistant & Operating Layer",
+  "description": "Production-ready Android AI assistant and operating layer created by Krishna Sharma Sir, featuring a central AI Brain, Hindi/English/Hinglish NLU, Voice & Wake-Word Engine, Screen & Camera Vision, Multi-Step Task Planner, Emotional Intelligence, and complete Kotlin Jetpack Compose source architecture.",
+  "requestFramePermissions": ["camera", "microphone", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
